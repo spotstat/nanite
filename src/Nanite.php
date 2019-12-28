@@ -106,7 +106,7 @@ class Nanite
     }
 
     /**
-     * Porcesses the route.
+     * Processes the route.
      *
      * @access private
      */
